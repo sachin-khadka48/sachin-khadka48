@@ -1,7 +1,7 @@
 
 <p align="center">
 
-  <img src="https://streak-stats.demolab.com?user=sachin-khadka48t&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=sachin-khadka48&theme=radical" />
 </p>
 
 <p align="center" height="200">
