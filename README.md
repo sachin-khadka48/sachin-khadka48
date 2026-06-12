@@ -36,3 +36,5 @@
 
 
 Todo-List-Project = https://garne-kaam-haruu.netlify.app/
+
+Password-Generator-Project = https://pass-generator-c.netlify.app/
